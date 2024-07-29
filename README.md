@@ -1,4 +1,4 @@
-# Brute-force-for-login-bypass-on-a-local-website
+# Local Web Login Brute Force Exploit
 
 ## Description - Sample Website Backstory
 - A-Z Education website offers courses related to React Development, Amazon Web Services and Cyber Security algorithms.
